@@ -44,6 +44,6 @@ Beyond classical quantitative methods, I apply NLP techniques to extract explain
 
 ## Let's talk
 
-I'm open to conversations about quantitative research, behavioral data science, and insights analytics roles across Europe. If any of this overlaps with what your team needs, I'd be glad to talk.
+I'm open to conversations about quantitative research, behavioral data science, and insights analytics roles across Europe/US. If any of this overlaps with what your team needs, I'd be glad to talk.
 
 📬 Get in touch: [michele.tosi1995@gmail.com](mailto:michele.tosi1995@gmail.com)
