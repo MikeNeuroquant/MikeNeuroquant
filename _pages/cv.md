@@ -3,62 +3,44 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
+📄 **[Download my CV (PDF)](/files/CV_Michele_Tosi.pdf)**
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Skills
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+- **Experimentation & Causal Inference** — experimental design, A/B testing, mixed-effects models, quasi-experimental designs, sampling, measurement.
+- **UX & Behavioral Research** — survey design and validation, measurement invariance, usability testing, moderated sessions, behavioral segmentation (clustering, latent class).
+- **Programming & ML** — Python (pandas, scikit-learn, statsmodels, numpy), R, SPSS, basic SQL, Git, Qualtrics; NLP, classification, LLM benchmarking, explainable AI, sentiment analysis.
+- **Mixed Methods** — semi-structured interviews, qualitative synthesis, AI-assisted analysis.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Work Experience
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**Quantitative Researcher** — Italian Institute of Technology *(Oct 2021 – Apr 2026)*  
+Led quantitative research projects (A/B-style) combining behavioral, survey, and biometric sensor data across 180+ participant sessions. Built reproducible Python/R pipelines for mixed-effects modeling, time series, and feature engineering.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+**Visiting Scientist – Quantitative Researcher** — University of Oxford *(Apr 2025 – Oct 2025)*  
+Modeled physiological, behavioral, imaging, and clinical data to predict functional outcomes at the individual level. Competitively awarded fellowship.
+
+**Statistical Consultant** — Freelance *(Sep 2023 – Sep 2024)*  
+Consulted on experimental design and statistical analysis; standardized Python/R workflows.
+
+**Survey Specialist** — University of Padova & University of Verona *(Oct 2018 – Oct 2021)*  
+Delivered survey infrastructure and psychometric validation end-to-end; behavioral segmentation on multilingual samples.
+
+## Education
+
+- **PhD in Brain and Cognitive Sciences** — University of Trento (CIMeC), 2021–2026  
+- **MSc in Data Science** — University of Trento, expected 2026  
+- **MSc in Cognitive Psychology** — University of Padova, 2018–2020  
+- **BSc in Industrial/Organizational Psychology** — University of Verona, 2014–2018  
+
+## Additional Training
+
+- Scuola Superiore Sant'Anna, Pisa — *Data Science-driven Innovation in Business & Society* (2026)
+- University of Genoa — *Machine Learning Crash Course* (2025)
+- Radboud University, Nijmegen — *Biometric Signal Processing & Behavioral Analytics*
+
+## Languages
+
+Italian (native), English (C1)
