@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-👋 Hi, I'm Michele, a quantitative researcher with over 7 years of experience combining quantitative psychology , data science, applied ML and NLP, and computational social science 💻​ .
+👋 Hi, I'm Michele, a quantitative researcher with over 7 years of experience combining quantitative psychology , data science, applied ML/NLP, and computational social science 💻​ .
 
 My work centers on measuring and predicting human behavior 🙎‍♂️​ , using inferential, descriptive, and multivariate statistics (e.g: mixed-effects models such as lmer and glmer, clustering, PCA), with a particular focus on modeling the individual differences that actually drive behavior. I design end-to-end research processes for specific business questions, from survey and study design through to the statistical models needed to answer them, always grounding predictions in a clear theoretical and contextual base ✅​ rather than treating the data as a black box ⬛​ .
 
