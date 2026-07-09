@@ -12,7 +12,7 @@ repository               : "MikeNeuroquant/MikeNeuroquant"
 
 # Site Author
 author:
-  avatar           : "profile.png"
+  avatar           : "1628177270352.png"
   name             : "Michele Tosi, PhD"
   pronouns         : "He/Him"
   bio              : "Quantitative researcher bridging cognitive science, psychometrics, and applied ML. Focused on behavioral prediction, survey science, and experimentation."
@@ -44,7 +44,7 @@ author:
   stackoverflow    :
 
   # Social media
-  linkedin         : "michele-tosi-phd"   # <-- CONTROLLA CHE SIA IL TUO USERNAME LINKEDIN ESATTO
+  linkedin         : "https://www.linkedin.com/in/michele-tosi-phd-298387162/"   # <-- CONTROLLA CHE SIA IL TUO USERNAME LINKEDIN ESATTO
   bluesky          :
   facebook         :
   instagram        :
@@ -53,12 +53,7 @@ author:
   twitter          :
   youtube          :
 
-# Publication Categories
-publication_category:
-  manuscripts:
-    title: 'Journal Articles'
-  conferences:
-    title: 'Conference Papers'
+
 
 # Site Settings
 teaser                   :
@@ -131,7 +126,7 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
