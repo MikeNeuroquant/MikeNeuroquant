@@ -3,10 +3,8 @@ title: "Validating a Mental Health Screening Tool at Scale"
 excerpt: "Checked whether a widely used psychological questionnaire holds up across very different age groups, then tested how well background information alone can flag people at risk."
 collection: portfolio
 header:
-  teaser: /images/dass-validation-teaser.png
+  teaser: /images/survey.png
 ---
-
-![Item-level correlation structure of the DASS-42](/images/survey.png)
 
 This project validated a well-known psychological screening tool (the DASS-42, used to measure depression, anxiety, and stress) on a public dataset of nearly 40,000 people. The goal was simple to state but hard to get right: does this questionnaire actually measure what it claims to measure, and does it work the same way for everyone?
 
@@ -16,4 +14,4 @@ The second half of the project asked a different question: using only background
 
 **What this shows:** the ability to validate a measurement tool properly before trusting it, and to report a model's real-world performance honestly, exactly the kind of scrutiny you'd want applied to a customer survey or employee wellbeing tool before rolling it out.
 
-[View full project on GitHub](https://github.com/MikeNeuroquant/scree_plot.png)
+[View on GitHub](https://github.com/MikeNeuroquant/survey-validation-behavioral-scoring)
