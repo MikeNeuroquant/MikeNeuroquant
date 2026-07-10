@@ -8,4 +8,4 @@ Every experiment has the same challenge: people don't all react the same way to 
 
 **What this shows:** the ability to design and analyze experiments correctly when people are measured repeatedly, avoiding the common mistake of treating those repeated measurements as if they were independent.
 
-[View on GitHub](https://github.com/MikeNeuroquant/mixed-models-behavioral-experiment)
+[View full project on GitHub](https://github.com/MikeNeuroquant/mixed-models-behavioral-experiment)

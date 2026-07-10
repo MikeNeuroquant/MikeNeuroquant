@@ -8,4 +8,4 @@ When classifying text (for example, sorting feedback, messages, or open-ended su
 
 **What this shows:** that better accuracy isn't the only thing that matters, being able to explain why a model made a decision is often just as important, especially when someone needs to trust or act on the result.
 
-[View on GitHub](https://github.com/MikeNeuroquant/text-classification-feature-engineering)
+[View full project on GitHub](https://github.com/MikeNeuroquant/text-classification-feature-engineering)

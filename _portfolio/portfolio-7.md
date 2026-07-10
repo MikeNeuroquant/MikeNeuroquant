@@ -8,4 +8,4 @@ This project processes EEG data, brainwave recordings picked up through sensors 
 
 **What this shows:** the ability to work with physiological data directly, not just self-reported answers, the same kind of measurement problem behind neurotech and biometric-driven human factors research.
 
-[View on GitHub](https://github.com/MikeNeuroquant/neurotech_pipeline_demo)
+[View full project on GitHub](https://github.com/MikeNeuroquant/neurotech_pipeline_demo)

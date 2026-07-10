@@ -8,4 +8,4 @@ An interactive application that runs structured practice tasks (like naming imag
 
 **What this shows:** the ability to go beyond analysis and actually build a working, user-facing tool from scratch, one that collects clean, structured data by design rather than needing to be cleaned up afterward.
 
-[View on GitHub](https://github.com/MikeNeuroquant/behavioral-task-demo)
+[View full project on GitHub](https://github.com/MikeNeuroquant/behavioral-task-demo)

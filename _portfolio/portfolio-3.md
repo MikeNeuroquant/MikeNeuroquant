@@ -8,4 +8,4 @@ Long surveys cause a real problem: people get tired, rush through the last quest
 
 **What this shows:** a practical, data-driven way to make surveys shorter and less annoying for respondents, without guessing which questions to cut.
 
-[View on GitHub](https://github.com/MikeNeuroquant/survey-item-importance)
+[View full project on GitHub](https://github.com/MikeNeuroquant/survey-item-importance)
