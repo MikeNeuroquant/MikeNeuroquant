@@ -16,4 +16,4 @@ The second half of the project asked a different question: using only background
 
 **What this shows:** the ability to validate a measurement tool properly before trusting it, and to report a model's real-world performance honestly, exactly the kind of scrutiny you'd want applied to a customer survey or employee wellbeing tool before rolling it out.
 
-[View on GitHub](https://github.com/MikeNeuroquant/scree_plot.png)
+[View full project on GitHub](https://github.com/MikeNeuroquant/scree_plot.png)
