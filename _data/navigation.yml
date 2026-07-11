@@ -15,9 +15,6 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Under development"
-    url: /under-development/
-
   - title: "Publications"
     url: /publications/  
     
