@@ -11,7 +11,7 @@ author_profile: true
 
 - **Experimentation & Causal Inference** — experimental design, A/B testing, mixed-effects models, quasi-experimental designs, sampling, measurement.
 - **UX & Behavioral Research** — survey design and validation, measurement invariance, usability testing, moderated sessions, behavioral segmentation (clustering, latent class).
-- **Programming & ML** — Python (pandas, scikit-learn, statsmodels, numpy), R, SPSS, basic SQL, Git, Qualtrics; NLP, classification, LLM benchmarking, explainable AI, sentiment analysis.
+- **Programming & ML** — Python (pandas, scikit-learn, statsmodels, numpy), R, SPSS, basic SQL, Qualtrics; NLP, classification, LLM benchmarking, explainable AI, sentiment analysis.
 - **Mixed Methods** — semi-structured interviews, qualitative synthesis, AI-assisted analysis.
 
 ## Work Experience
