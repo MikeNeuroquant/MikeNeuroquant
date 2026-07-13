@@ -5,7 +5,7 @@ site_theme               : "air"
 title                    : "Michele Tosi, PhD"
 title_separator          : "-"
 name                     : &name "Michele Tosi, PhD"
-description              : &description "Quantitative UX Researcher — Behavioral Prediction, Surveys analytics, and Applied ML/NLP"
+description              : &description "Quantitative UX Researcher — Behavioral Prediction, Surveys analytics, Cognitive science and Applied ML/NLP"
 url                      : https://mikeneuroquant.github.io
 baseurl                  : ""
 repository               : "MikeNeuroquant/MikeNeuroquant"
@@ -15,7 +15,7 @@ author:
   avatar           : "1628177270352.png"
   name             : "Michele Tosi, PhD"
   pronouns         : "He/Him"
-  bio              : "Quantitative Researcher at the intersection of cognitive science, psychometrics, data science and applied machine learning. Focused on behavioral measurement, machine psychology, AI evaluation, survey science, and experimentation"
+  bio              : ""
   location         : "Verona, Italy"
   uri              :
   email            : "michele.tosi1995@gmail.com"
