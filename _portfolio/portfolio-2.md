@@ -1,6 +1,6 @@
 ---
 title: "Cognitive Network Analysis of Affective Dynamics in LLM Outputs"
-excerpt: "Extracted interpretable, quantitative emotional and structural features from raw text to predict behavioral outcomes, not just sentiment scores."
+excerpt: "Extracted interpretable, quantitative emotional and structural features from raw LLM generated text to predict behavioral outcomes, not just sentiment scores."
 collection: portfolio
 ---
 
