@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-👋 Hi, I'm Michele. I'm a quantitative researcher with 7+ years of experience across cognitive science, psychometrics, data science, and applied machine learning. My work sits where behavioral measurement meets machine psychology and AI evaluation, with a background in survey science and experimental design.
+👋 Hi, I'm Michele. I'm a quantitative researcher with 7+ years of experience across cognitive science, psychometrics, data science, and applied machine learning. My work sits where behavioral measurement meets machine psychology and AI evaluation, with a background in survey methodology, data analysis and experimental design.
 
 ## What I do
 
