@@ -1,5 +1,5 @@
 ---
-title: "Interactive Task App With Live Feedback"
+title: "Interactive Task App With Live Feedback Demo"
 excerpt: "Built a working app for structured practice tasks, with real-time feedback and full activity logging."
 collection: portfolio
 ---
