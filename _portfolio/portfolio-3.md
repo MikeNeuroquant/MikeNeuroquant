@@ -1,5 +1,5 @@
 ---
-title: "A/B Test Analysis on a Marketing Campaign"
+title: "A/B Test Case Study on User Behavior"
 excerpt: "Estimated the real effect of an ad campaign on conversion by disentangling the treatment from how much users were actually exposed to ads."
 collection: portfolio
 ---
