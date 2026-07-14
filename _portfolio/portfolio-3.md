@@ -12,4 +12,4 @@ Group-level uncertainty is quantified with 95% bootstrap confidence intervals, w
 
 **What this shows:** the ability to spot when a straightforward group comparison is misleading, adjust the analysis for the real drivers of the outcome, and report the effect of a campaign in a way that a marketing team can act on, exactly the kind of scrutiny you'd want applied to any experiment before making a spend decision.
 
-[View full project on GitHub](https://github.com/MikeNeuroquant/A-B_test_analysis_demo/blob/main/notebooks/ab_test_analysis.ipynb)
+[View full project on GitHub](https://github.com/MikeNeuroquant/A-B_test_analysis_demo/tree/main)
