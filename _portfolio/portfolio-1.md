@@ -1,5 +1,5 @@
 ---
-title: "Validating a Mental Health Screening Tool at Scale"
+title: "Validating a Behavioral Screening Tool at Scale"
 excerpt: "Checked whether a widely used psychological questionnaire holds up across very different age groups, then tested how well background information alone can flag people at risk."
 collection: portfolio
 ---
