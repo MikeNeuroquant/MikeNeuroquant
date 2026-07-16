@@ -5,7 +5,6 @@ permalink: /cv/
 author_profile: true
 ---
 
-📄 **[Download my CV (PDF)](/files/CV_Michele_Tosi.pdf)**
 
 ## Skills
 
@@ -19,7 +18,7 @@ author_profile: true
 **Quantitative Researcher** — Italian Institute of Technology *(Oct 2021 – Apr 2026)*  
 Led quantitative research projects (A/B-style) combining behavioral, survey, and biometric sensor data across 180+ participant sessions. Built reproducible Python/R pipelines for mixed-effects modeling, time series, and feature engineering.
 
-**Visiting Scientist – Quantitative Researcher** — University of Oxford *(Apr 2025 – Oct 2025)*  
+**Quantitative Researcher** — University of Oxford *(Apr 2025 – Oct 2025)*  
 Modeled physiological, behavioral, imaging, and clinical data to predict functional outcomes at the individual level. Competitively awarded fellowship.
 
 **Statistical Consultant** — Freelance *(Sep 2023 – Sep 2024)*  
@@ -30,8 +29,7 @@ Delivered survey infrastructure and psychometric validation end-to-end; behavior
 
 ## Education
 
-- **PhD in Brain and Cognitive Sciences** — University of Trento (CIMeC)
-- **MSc in Data Science** — University of Trento,  
+- **PhD in Brain and Cognitive Sciences** — University of Trento (CIMeC) 
 - **MSc in Cognitive Psychology** — University of Padova
 - **BSc in Industrial/Organizational Psychology** — University of Verona
 
