@@ -18,8 +18,6 @@ main:
   - title: "Publications"
     url: /publications/  
   
-  - title: "Under Development"
-    url: /under-development/ 
     
   # - title: "CV"
   #   url: /cv-json/
